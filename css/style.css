@@ -14,6 +14,7 @@ html, body {
   height: 100%;
 }
 
+
 html .rainbow-div, body .rainbow-div {
   background: -webkit-gradient(linear, left top, right top, from(#BFF098), color-stop(40%, #7FC5F6), color-stop(60%, #FE90AF), color-stop(70%, #FDA085), to(#F6D365));
   background: linear-gradient(to right, #BFF098 0%, #7FC5F6 40%, #FE90AF 60%, #FDA085 70%, #F6D365 100%);
